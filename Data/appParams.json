@@ -1,0 +1,78 @@
+{
+    "help": {
+        "showHelp": true
+    },
+    "state": {
+        "stateVarVer": 2
+    },
+    "versions": {
+        "app": {
+            "ver": "4.1.0"
+        },
+        "thermostat": {
+            "ver": "4.1.0"
+        },
+        "protect": {
+            "ver": "4.1.0"
+        },
+        "camera": {
+            "ver": "2.1.0"
+        },
+        "presence": {
+            "ver": "4.1.0"
+        },
+        "weather": {
+            "ver": "4.1.0"
+        }
+    },
+    "token": {
+        "tokenNum": 2
+    },
+    "broadcast": {
+        "msgId": "",
+        "message": "",
+        "type": "info"
+    },
+    "updater": {
+        "updateVer": 1,
+        "updateMsg": "",
+        "updateDesc": "",
+        "updateType": "std",
+        "setupVersion": 2,
+        "versions": {
+            "app": {
+                "ver": "4.1.0"
+            },
+            "thermostat": {
+                "ver": "4.1.0"
+            },
+            "vthermostat": {
+                "ver": "4.1.0"
+            },
+            "protect": {
+                "ver": "4.1.0"
+            },
+            "camera": {
+                "ver": "2.1.0"
+            },
+            "presence": {
+                "ver": "4.1.0"
+            },
+            "weather": {
+                "ver": "4.1.0"
+            }
+        }
+    },
+    "html": {
+        "cssVer": 1,
+        "cssUrl": "https://raw.githubusercontent.com/desertblade/ST-HTMLTile-Framework/master/css/smartthings.css",
+        "chartJsVer": 1,
+        "chartJsUrl": "https://www.gstatic.com/charts/loader.js"
+    },
+    "database": {
+        "disableExceptions": true
+    },
+    "aaSupport": {
+        "enabled": true
+    }
+}
